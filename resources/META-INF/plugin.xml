@@ -2,7 +2,7 @@
   <id>io.github.QCute.ErlangHotLoader</id>
   <name>Erlang Hot Loader</name>
   <version>1.0.0</version>
-  <vendor email="baldoor@qq.com" url="https://qcute.github.io">Qcute</vendor>
+  <vendor email="baldoor@qq.com" url="https://qcute.github.io">QCute</vendor>
 
   <description><![CDATA[
       <p>An Erlang Hot Loader<p>

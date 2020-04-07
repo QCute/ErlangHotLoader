@@ -21,7 +21,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.CamelCasePlugin" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -52,6 +52,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="687" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1585215903477" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1585539734158">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585539734158" />
     <state x="565" y="221" width="790" height="608" key="find.popup" timestamp="1585215656924">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
