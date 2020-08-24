@@ -16,12 +16,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20588236" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
@@ -47,18 +49,27 @@
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
     <option name="version" value="2" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="WindowStateProjectService">
-    <state x="687" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585215903477">
+    <state x="761" y="336" key="FileChooserDialogImpl" timestamp="1598264191549">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="687" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1585215903477" />
-    <state x="461" y="156" key="SettingsEditor" timestamp="1585539734158">
+    <state x="761" y="336" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1598264191549" />
+    <state x="461" y="156" key="SettingsEditor" timestamp="1598264193108">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1585539734158" />
-    <state x="565" y="221" width="790" height="608" key="find.popup" timestamp="1585215656924">
+    <state x="461" y="156" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1598264193108" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598264092859">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="565" y="221" width="790" height="608" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1585215656924" />
+    <state x="92" y="92" width="1736" height="866" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1598264092859" />
+    <state x="616" y="237" key="run.anything.popup" timestamp="1598264134789">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="237" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598264134789" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1598263057488">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1598263057488" />
   </component>
 </project>

@@ -59,11 +59,11 @@ public class ErlHotLoader extends AnAction {
                 flag.append(" -noinput ");
                 flag.append(" -name ").append(makeNode()).append(" ");
                 flag.append(" -setcookie ").append(state.getCookie()).append(" ");
-                flag.append(" -eval ").append(" \"erlang:display(rpc:call('").append(state.getNode()).append("', int, i, ['").append(basename).append("'])), erlang:halt().\"");
+                flag.append(" -eval ").append(" \"erlang:display({rpc:call('").append(state.getNode()).append("', int, n, ['").append(basename).append("']), ").append("rpc:call('").append(state.getNode()).append("', int, i, ['").append(basename).append("'])}), erlang:halt().\"");
                 // load module and handle result
                 String loadResult = run(basePath, flag.toString());
                 // handle result
-                if (loadResult.equals("{module," + basename + "}")) {
+                if (loadResult.equals("{ok,{module," + basename + "}}")) {
                     ok(project, "Hot Load success: " + loadResult);
                 } else {
                     error(project, "Hot Load error: " + loadResult);
